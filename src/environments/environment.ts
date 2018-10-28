@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  token: '0d0f9291def6448d902c315e5109da14'
+  token: '' // put dialog flow tocken in here
 };
